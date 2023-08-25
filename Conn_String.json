@@ -1,0 +1,6 @@
+[
+{
+   "paramName": "Database_Connection_URL",
+   "type": "mysql",
+    "paramValue": "jdbc:sqlserver://${{Cloud_Database_Host}}:1433;database=fiber;user=raisa;password=testpass;encrypt=true;hostNameInCertificate=*.database.windows.net;loginTimeout=30;"
+}]
